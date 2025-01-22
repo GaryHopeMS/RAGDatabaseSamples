@@ -1,2 +1,2 @@
 # RAGDatabaseSamples
-RAG with Databases demo sample scripts 
+RAG with Azure Databases demo sample scripts 
